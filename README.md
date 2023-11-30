@@ -63,14 +63,14 @@ Random Forest Classifier: In addition to SMOTE, is utilized to address class imb
 Decision tree classifier: The goal is to strike a balance between recall, accuracy, and precision.
 
 # Advanced Analysis
-LIME (Local Interpretable Model-agnostic Explanations): Used to recognize instance-level model predictions. 
+**LIME (Local Interpretable Model-agnostic Explanations): Used to recognize instance-level model predictions. **
 <img width="1010" alt="Screenshot 2023-11-30 at 17 59 07" src="https://github.com/martenzZe/Evaluating-Telemarketing-Strategies-in-Digital-Banking/assets/152230960/9cd96d8b-6b43-438c-9964-724054186ea0">
 
-SHAP (SHapley Additive exPlanations): The impact of features on the model's output is interpreted using.
+**SHAP (SHapley Additive exPlanations): The impact of features on the model's output is interpreted using.**
 <img width="605" alt="Screenshot 2023-11-30 at 17 59 35" src="https://github.com/martenzZe/Evaluating-Telemarketing-Strategies-in-Digital-Banking/assets/152230960/ea11ae1c-4ed0-4875-8bcb-fcad905c1a32">
 
 
-Visualization: To better understand the decision-making process, decision trees were visualized.
+**Visualization: To better understand the decision-making process, decision trees were visualized.**
 
 
  
