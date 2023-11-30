@@ -9,7 +9,7 @@ The goal of our M4RAI project is to forecast customer behaviors by analyzing pre
 The bank-full.csv dataset, which includes a variety of customer attributes and their choice to sign up for a bank term deposit, was used in this project. Important characteristics include things like age, occupation, marital status, level of education, and more.
 
 # Analysis and preprocessing
-Preprocessing and data exploration are the first steps:
+**Preprocessing and data exploration are the first steps:**
 
 Data preprocessing: feature scaling, data splitting, and one-hot encoding of categorical variables.
 
