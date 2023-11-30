@@ -10,7 +10,6 @@ The bank-full.csv dataset, which includes a variety of customer attributes and t
 
 # Analysis and preprocessing
 **Preprocessing and data exploration are the first steps:**
-
 Data preprocessing: feature scaling, data splitting, and one-hot encoding of categorical variables.
 
 Data Importation: involves using Pandas to load the dataset.
@@ -19,7 +18,7 @@ Exploratory Data Analysis (EDA): To comprehend data distribution, use descriptiv
 
 
 # Models and Methods
-Numerous machine learning models were assessed and trained, including:
+**Numerous machine learning models were assessed and trained, including:**
 
 Logistic regression: The accuracy, precision, and recall are tested.
 
