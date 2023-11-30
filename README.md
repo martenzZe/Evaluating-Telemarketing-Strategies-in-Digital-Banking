@@ -72,5 +72,6 @@ Decision tree classifier: The goal is to strike a balance between recall, accura
 
 **Visualization: To better understand the decision-making process, decision trees were visualized.**
 
-
+# Run Istructions 
+To run our project, just simply clone this repository, this will ensure you have the dataset file and the supporting notebook on your computer. After that open the jupyter notebook file and execute the appropriate cells.
  
